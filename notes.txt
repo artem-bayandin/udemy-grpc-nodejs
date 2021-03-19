@@ -1,0 +1,10 @@
+1.  may I run both grpc and rest on the same server/port?
+2.  running client in a browser
+3.  tests
+4.  what if server fails? how to re-run it?
+5.  may I load proto files and create services automatically?
+    so that intellisense may help me showing func args types, i.e?
+6.  cancelling requests
+7.  error handling
+8.  deadlines (timeouts, circuit breakers)
+9.  auth

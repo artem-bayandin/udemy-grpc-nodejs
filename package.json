@@ -1,0 +1,23 @@
+{
+  "name": "youtube-grpc-nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artem-bayandin/youtube-grpc-nodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artem-bayandin/youtube-grpc-nodejs/issues"
+  },
+  "homepage": "https://github.com/artem-bayandin/youtube-grpc-nodejs#readme",
+  "dependencies": {
+    "@grpc/proto-loader": "^0.5.6",
+    "grpc": "^1.24.6"
+  }
+}
